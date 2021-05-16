@@ -1,2 +1,2 @@
 # speech2Text
-Data Set Creating
+Turkish Text Dataset Creating that Based on Different type Videos
